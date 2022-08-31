@@ -2,12 +2,13 @@
 
 ## Solana
 
-* [Halborn Durable_Nonce_Patches_Solana_L1_Security_Audit_Report_Halborn_Final.pdf](./solana/Durable_Nonce_Patches_Solana_L1_Security_Audit_Report_Halborn_Final.pdf)
-* [Otter Security Durable_Nonce_Audit_6_20_22.pdf](./solana/Durable_Nonce_Audit_6_20_22.pdf)
+- Durable Nonce
+  - [Halborn Audit (2022-06-15).pdf](./solana/DurableNonce_Halborn_2022-06-15.pdf)
+  - [OtterSec Audit (2022-06-20).pdf](./solana/DurableNonce_OtterSec_2022-06-20.pdf)
 
 ## Solana Program Library
 
-* Stake Pool
-  * [Kudelski Audit.pdf](./spl/KudelskiStakePoolAudit.pdf)
-  * [Neodyme Audit.pdf](./spl/NeodymeStakePoolAudit.pdf)
-  * [Quantstamp Audit.pdf](./spl/QuantstampStakePoolAudit.pdf)
+- Stake Pool
+  - [Kudelski Audit.pdf](./spl/KudelskiStakePoolAudit.pdf)
+  - [Neodyme Audit.pdf](./spl/NeodymeStakePoolAudit.pdf)
+  - [Quantstamp Audit.pdf](./spl/QuantstampStakePoolAudit.pdf)
