@@ -20,3 +20,6 @@
   - [Quantstamp Audit.pdf](./spl/QuantstampStakePoolAudit.pdf)
 - Token Swap & Shared Memory
   - [Kudelski Audit.pdf](./spl/KudelskiTokenSwapSharedMemAudit.pdf)
+- Token-2022
+  - [Halborn Audit.pdf](./spl/HalbornToken2022Audit.pdf)
+  - [Zellic Audit.pdf](./spl/ZellicToken2022Audit.pdf)
