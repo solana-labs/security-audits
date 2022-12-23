@@ -18,6 +18,7 @@
   - [Kudelski Audit.pdf](./spl/KudelskiStakePoolAudit.pdf)
   - [Neodyme Audit.pdf](./spl/NeodymeStakePoolAudit.pdf)
   - [Quantstamp Audit.pdf](./spl/QuantstampStakePoolAudit.pdf)
+  - [Second Neodyme Audit.pdf](./spl/NeodymeStakePoolAudit2.pdf)
 - Token Swap & Shared Memory
   - [Kudelski Audit.pdf](./spl/KudelskiTokenSwapSharedMemAudit.pdf)
 - Token-2022
