@@ -20,10 +20,12 @@
   - [Quantstamp Audit (2021-10-22).pdf](./spl/QuantstampStakePoolAudit-2021-10-22.pdf)
   - [Neodyme Audit (2022-12-10).pdf](./spl/NeodymeStakePoolAudit-2022-12-10.pdf)
   - [Neodyme Audit (2023-01-31).pdf](./spl/NeodymeStakePoolAudit-2023-01-31.pdf)
-  - [Ottersec Audit (2023-01-20).pdf](./spl/OtterSecStakePoolAudit-2023-01-20.pdf)
+  - [OtterSec Audit (2023-01-20).pdf](./spl/OtterSecStakePoolAudit-2023-01-20.pdf)
   - [Halborn Audit (2023-01-25).pdf](spl/HalbornStakePoolAudit-2023-01-25.pdf)
 - Token Swap & Shared Memory
   - [Kudelski Audit (2021-02-25).pdf](./spl/KudelskiTokenSwapSharedMemAudit-2021-02-25.pdf)
 - Token-2022
   - [Halborn Audit (2022-07-27).pdf](./spl/HalbornToken2022Audit-2022-07-27.pdf)
   - [Zellic Audit (2022-12-05).pdf](./spl/ZellicToken2022Audit-2022-12-05.pdf)
+- Account Compression
+  - [OtterSec Audit (2022-12-03).pdf](./spl/OtterSecAccountCompressionAudit-2022-12-03.pdf)
