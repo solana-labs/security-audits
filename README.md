@@ -27,5 +27,6 @@
 - Token-2022
   - [Halborn Audit (2022-07-27).pdf](./spl/HalbornToken2022Audit-2022-07-27.pdf)
   - [Zellic Audit (2022-12-05).pdf](./spl/ZellicToken2022Audit-2022-12-05.pdf)
+  - [Trail of Bits Audit (2022-02-10).pdf](./spl/TrailOfBitsToken2022Audit-2023-02-10.pdf)
 - Account Compression
   - [OtterSec Audit (2022-12-03).pdf](./spl/OtterSecAccountCompressionAudit-2022-12-03.pdf)
