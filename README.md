@@ -12,6 +12,9 @@
   - [OtterSec Audit (2022-07-22).pdf](./solana/ElfParser_OtterSec_2022-07-22.pdf)
   - [Halborn Audit (2022-08-04).pdf](./solana/ElfParser_Halborn_2022-08-04.pdf)
 
+## Solang
+- [Trail of Bits Solang Audit](./solang/Trail_of_Bits_Solang_Final_report.pdf)
+
 ## Solana Program Library
 
 - Stake Pool
