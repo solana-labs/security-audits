@@ -41,3 +41,6 @@
   - [NCC Group (2023-04-05).pdf](./spl/NCCToken2022Audit-2023-04-05.pdf)
 - Account Compression
   - [OtterSec Audit (2022-12-03).pdf](./spl/OtterSecAccountCompressionAudit-2022-12-03.pdf)
+- Single Stake Pool
+  - [Single_Stake_Pool_Zellic_Audit.pdf](./spl/Single_Stake_Pool_Zellic_Audit.pdf)
+  
