@@ -42,5 +42,5 @@
 - Account Compression
   - [OtterSec Audit (2022-12-03).pdf](./spl/OtterSecAccountCompressionAudit-2022-12-03.pdf)
 - Single Stake Pool
-  - [Single_Stake_Pool_Zellic_Audit.pdf](./spl/Single_Stake_Pool_Zellic_Audit.pdf)
-  
+  - [Zellic Audit (2023-06-21](./spl/ZellicSinglePoolAudit-2023-06-21.pdf)
+  - [Neodyme Audit (2023-08-08](./spl/NeodymeSinglePoolAudit-2023-08-08.pdf)
