@@ -26,7 +26,10 @@
   - [Halborn Audit (2022-08-04).pdf](./solana/ElfParser_Halborn_2022-08-04.pdf)
 
 ## Solang
-- [Trail of Bits Solang Audit](./solang/Trail_of_Bits_Solang_Final_report.pdf)
+- [Trail of Bits Solang Parser/Sema Audit](./solang/Trail_of_Bits_Solang_Final_report.pdf)
+- [Trail of Bits Solang Codegen Audit](./solang/Solang_Code_Generation_Summary_Report.pdf)
+- [Trail of Bits Solang Emit Audit](./solang/Assurance_Report_Solana_Solang_Emit.pdf)
+- [Trail of Bits Solang Solana Library Audit](./solang/Solang_Solana_Library_Summary_Report.pdf)
 
 ## Solana Program Library
 
