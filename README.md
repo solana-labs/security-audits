@@ -65,6 +65,7 @@
   - [Zellic Audit (2022-12-05).pdf](./spl/ZellicToken2022Audit-2022-12-05.pdf)
   - [Trail of Bits Audit (2023-02-10).pdf](./spl/TrailOfBitsToken2022Audit-2023-02-10.pdf)
   - [NCC Group (2023-04-05).pdf](./spl/NCCToken2022Audit-2023-04-05.pdf)
+  - [OtterSec Audit (2023-11-03).pdf](./spl/OtterSecToken2022Audit-2023-11-03.pdf)
 
 ### Account Compression
 
