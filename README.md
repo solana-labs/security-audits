@@ -66,7 +66,7 @@
   - [Trail of Bits Audit (2023-02-10).pdf](./spl/TrailOfBitsToken2022Audit-2023-02-10.pdf)
   - [NCC Group (2023-04-05).pdf](./spl/NCCToken2022Audit-2023-04-05.pdf)
   - [OtterSec Audit (2023-11-03).pdf](./spl/OtterSecToken2022Audit-2023-11-03.pdf)
-  - [OtterSec Audit (2023-11-04).pdf](./spl/OtterSecZkTokenSdkAudit-2023-11-04.pdf)
+  - [OtterSec ZK Token SDK Audit (2023-11-04).pdf](./spl/OtterSecZkTokenSdkAudit-2023-11-04.pdf)
 
 ### Account Compression
 
