@@ -54,6 +54,7 @@
   - [OtterSec Audit (2023-01-20).pdf](./spl/OtterSecStakePoolAudit-2023-01-20.pdf)
   - [Halborn Audit (2023-01-25).pdf](./spl/HalbornStakePoolAudit-2023-01-25.pdf)
   - [Neodyme Audit (2023-11-14).pdf](./spl/NeodymeStakePoolAudit-2023-11-14.pdf)
+  - [Halborn Audit (2023-12-31).pdf](./spl/HalbornStakePoolAudit-2023-12-31.pdf)
 
 ### Token Swap & Shared Memory
 
