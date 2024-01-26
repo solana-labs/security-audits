@@ -44,6 +44,10 @@
 
 ## Solana Program Library
 
+### Token
+
+  - [Kudelski Audit (2020-09-21).pdf](./spl/KudelskiTokenAudit-2020-09-21.pdf)
+
 ### Stake Pool
 
   - [Kudelski Audit (2021-07-07).pdf](./spl/KudelskiStakePoolAudit-2021-07-07.pdf)
