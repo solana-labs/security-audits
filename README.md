@@ -72,6 +72,7 @@
   - [NCC Group (2023-04-05).pdf](./spl/NCCToken2022Audit-2023-04-05.pdf)
   - [OtterSec Audit (2023-11-03).pdf](./spl/OtterSecToken2022Audit-2023-11-03.pdf)
   - [OtterSec ZK Token SDK Audit (2023-11-04).pdf](./spl/OtterSecZkTokenSdkAudit-2023-11-04.pdf)
+  - [Halborn Audit (2024-03-08).pdf](./spl/HalbornToken2022Audit-2024-03-08.pdf)
 
 ### Account Compression
 
