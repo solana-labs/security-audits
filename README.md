@@ -84,3 +84,7 @@
   - [Zellic Audit (2023-06-21](./spl/ZellicSinglePoolAudit-2023-06-21.pdf)
   - [Neodyme Audit (2023-08-08](./spl/NeodymeSinglePoolAudit-2023-08-08.pdf)
   - [Zellic Audit (2024-01-02](./spl/ZellicSinglePoolAudit-2024-01-02.pdf)
+
+### Governance
+
+  - [OtterSec Audit (2022-09-12)](./spl/OtterSecGovernanceAudit-2022-09-12.pdf)
