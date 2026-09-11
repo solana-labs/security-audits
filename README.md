@@ -49,6 +49,11 @@
 
   - [OtterSec v2.0.0 Audit (2026-05-05).pdf](./solana/Shaq_v2.0.0_Ottersec_Audit.pdf)
 
+### bls12-381-syscall
+
+  - [NCC (2026-02-26).pdf](./spl/NCCBLS12-381andBLSSignature-2026-05-12.pdf)
+  - [Least Authority Audit (2026-05-22).pdf](./spl/LeastAuthorityBLS12-381andBLSSignature-2026-05-22.pdf)
+
 ## Agave
 
 ### v4.2
@@ -96,6 +101,7 @@
   - [Code4rena Audit (2025-11-5).pdf](./spl/Code4renaXSolanaFoundation-2025-11-5.pdf)
   - [Zellic Audit (2025-12-16).pdf](./spl/ZellicToken2022Audit-2025-12-16.pdf)
   - [Qedit Audit (2025-12-19).pdf](./spl/QeditToken2022Audit-2025-12-19.pdf)
+  - [Asymmetric Research Audit (2026-12-19).pdf](./spl/AsymmetricResearchToken2022Audit-2026-06-17.pdf)
 
 ### Account Compression
 
@@ -126,6 +132,10 @@
   - [Zellic Audit (2026-03-26).pdf](./spl/ZellicPTokenAudit-2026-03-26.pdf)
   - [Certora Formal Verification (2026-05-11).pdf](./spl/CertoraPTokenFV-2026-05-11.pdf)
 
+### Program Metadata
+
+  - [Zellic Audit (2026-06-17).pdf](./spl/ZellicProgramMetadataAudit-2026-06-17.pdf)
+
 ## Core BPF Programs
 
 ### Address-Lookup-Table, Config, Feature-Gate
@@ -147,3 +157,5 @@
 ### solana-bls-signatures crate
 
   - [Trail of Bits Audit (2026-02-26).pdf](https://github.com/trailofbits/publications/blob/master/reviews/2026-03-anza-blssignatures-securityreview.pdf)
+  - [NCC Audit (2026-05-12).pdf](./spl/NCCBLS12-381andBLSSignature-2026-05-12.pdf)
+  - [Least Authority Audit (2026-05-22).pdf](./spl/LeastAuthorityBLS12-381andBLSSignature-2026-05-22.pdf)
