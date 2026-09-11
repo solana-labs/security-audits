@@ -49,6 +49,13 @@
 
   - [OtterSec v2.0.0 Audit (2026-05-05).pdf](./solana/Shaq_v2.0.0_Ottersec_Audit.pdf)
 
+## Agave
+
+### v4.2
+
+  - [OtterSec Audit (2026-08-19).pdf](./agave/Agave_v4.2_Ottersec_Audit.pdf)
+  - [Neodyme Audit (2026-08-31).pdf](./agave/Agave_v4.2_Neodyme_Audit.pdf)
+
 ## Solana Program Library
 
 ### Token
