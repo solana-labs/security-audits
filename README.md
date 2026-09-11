@@ -54,6 +54,13 @@
   - [NCC (2026-02-26).pdf](./spl/NCCBLS12-381andBLSSignature-2026-05-12.pdf)
   - [Least Authority Audit (2026-05-22).pdf](./spl/LeastAuthorityBLS12-381andBLSSignature-2026-05-22.pdf)
 
+## Agave
+
+### v4.2
+
+  - [OtterSec Audit (2026-08-19).pdf](./agave/Agave_v4.2_Ottersec_Audit.pdf)
+  - [Neodyme Audit (2026-08-31).pdf](./agave/Agave_v4.2_Neodyme_Audit.pdf)
+
 ## Solana Program Library
 
 ### Token
